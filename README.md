@@ -51,12 +51,3 @@
   </a>
 </div>
 
-###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/MrChayote">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=MrChayote&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
